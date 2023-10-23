@@ -1,2 +1,2 @@
 # simple_paint
-a wip paint application using sdl2
+an introduction to sdl2
